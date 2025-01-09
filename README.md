@@ -3,7 +3,7 @@
 <h3 align="center">Passionate DevOps Practitioner.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJocGJrNzRxajhpYjk3Z2syZXM1aWV5bjB4MjExeDkwYW1mcWdqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.webp">
 
-- 🔭I’m currently working on to be more productive.*
+- 🔭I’m currently working on to be more productive.
 
 - 🌱 I’m currently learning *DevOps*
 
