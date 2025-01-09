@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://www.instagram.com/atharvagawali28?igsh=ZHJpNnVrNDJ1OGp0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvagawali28" height="30" width="40" />
 <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="https://www.linkedin.com/in/atharva-gawali-1143b9252" height="30" width="40" />
-</a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="https://www.linkedin.com/in/atharva-gawali-1143b9252" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
